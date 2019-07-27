@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="283.46457"
+   height="283.46457"
+   id="svg3231"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="新建文档 13">
+  <defs
+     id="defs3233" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="208.13526"
+     inkscape:cy="130.62763"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1857"
+     inkscape:window-height="1056"
+     inkscape:window-x="63"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3236">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-768.89763)">
+    <g
+       transform="translate(0,768.89763)"
+       style="font-size:200px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot3239">
+      <path
+         d="m 194.3125,55.909981 0,14.84375 c -4.68759,-1.56237 -10.15633,-2.343619 -16.40625,-2.34375 -29.16671,1.31e-4 -44.27086,19.270945 -45.3125,57.812499 l 1.5625,0 c 6.24996,-10.93742 16.14579,-16.40616 29.6875,-16.40625 12.49993,9e-5 22.39575,3.90634 29.6875,11.71875 7.29157,7.29174 10.9374,17.70839 10.9375,31.25 -1e-4,15.1042 -3.90635,26.82294 -11.71875,35.15625 -7.81258,8.33334 -18.22924,12.5 -31.25,12.5 -14.06254,0 -25.52087,-5.20833 -34.375,-15.625 -8.33335,-10.93747 -12.50001,-26.56246 -12.5,-46.875 -1e-5,-28.12491 5.20832,-48.958222 15.625,-62.499999 10.41663,-14.062362 26.04161,-21.093605 46.875,-21.09375 6.77075,1.45e-4 12.49991,0.520978 17.1875,1.5625 M 161.5,123.09748 c -8.33338,8e-5 -15.36463,2.86466 -21.09375,8.59375 -5.20836,5.2084 -7.81253,11.19797 -7.8125,17.96875 -3e-5,10.41671 2.60414,19.01045 7.8125,25.78125 5.72912,6.77085 12.76037,10.15626 21.09375,10.15625 8.33327,1e-5 14.58326,-2.60415 18.75,-7.8125 4.68742,-5.72914 7.03117,-14.06246 7.03125,-25 -8e-5,-9.89578 -2.08341,-17.18744 -6.25,-21.875 -4.16674,-5.20826 -10.67715,-7.81242 -19.53125,-7.8125"
+         style=""
+         id="path3248" />
+    </g>
+  </g>
+</svg>
